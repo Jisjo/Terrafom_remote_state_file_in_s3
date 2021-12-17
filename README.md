@@ -1,5 +1,3 @@
-# Terrafom_remote_state_file_in_s3
-
 # Terraform state file on s3 backend 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](#)
 
