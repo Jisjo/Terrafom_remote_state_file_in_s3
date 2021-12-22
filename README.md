@@ -91,6 +91,6 @@ Here in this project terraform writes the state data to a remote data store and 
 
 ⚙️ Connect with Me
  
-  <a href="https://www.linkedin.com/in/sruthy-manohar-9a9b54150/">
+  <a href="https://www.linkedin.com/in/jisjo/">
      <p> <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </p>
    </a> 
